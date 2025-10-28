@@ -1,3 +1,2 @@
 # rhristo2.github.io
-INFO 654 website
-test
+click the blue 'rhristo2' link at the top of the page to access my web basics website!
